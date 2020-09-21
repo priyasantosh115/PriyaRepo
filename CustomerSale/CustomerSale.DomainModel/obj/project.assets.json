@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+      "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
       "projectName": "CustomerSale.DomainModel",
-      "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+      "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
       "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-      "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
+      "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",

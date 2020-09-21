@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {}
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
         "projectName": "CustomerSale.DomainModel",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
         "projectName": "CustomerSale.Repositories",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,11 +79,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj"
               },
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
         "projectName": "CustomerSale.Services",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
