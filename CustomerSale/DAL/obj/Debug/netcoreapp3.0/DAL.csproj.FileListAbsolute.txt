@@ -1,0 +1,4 @@
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs

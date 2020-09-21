@@ -1,0 +1,8 @@
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.deps.json
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.csprojAssemblyReference.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.AssemblyInfoInputs.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.AssemblyInfo.cs
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.pdb

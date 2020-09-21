@@ -1,0 +1,13 @@
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.deps.json
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Services.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Services.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.csprojAssemblyReference.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.AssemblyInfoInputs.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.AssemblyInfo.cs
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.csproj.CopyComplete
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.pdb

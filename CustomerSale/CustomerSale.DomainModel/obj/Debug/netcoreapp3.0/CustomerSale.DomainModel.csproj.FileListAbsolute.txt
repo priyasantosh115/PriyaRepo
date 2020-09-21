@@ -1,0 +1,8 @@
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.deps.json
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.AssemblyInfoInputs.cache
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.AssemblyInfo.cs
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
+C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.csprojAssemblyReference.cache
