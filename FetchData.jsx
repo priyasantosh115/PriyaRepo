@@ -5,7 +5,8 @@ export class FetchData extends Component {
 
   constructor(props) {
     super();
-    this.state = { forecasts: [], loading: true };
+      this.state = { forecasts: [], loading: true };
+      //Sanosh first commit
   }
 
   componentDidMount() {
