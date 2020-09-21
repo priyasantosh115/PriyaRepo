@@ -19,7 +19,7 @@ export default class UpdateProduct extends Component{
     componentDidMount() {  
         const query = new URLSearchParams(this.props.location.search);
 
-        fetch('https://priyankaapp.azurewebsites.net/Product/GetById?id=' + query.get("id"), {
+        fetch('https://localhost:44301/Product/GetById?id=' + query.get("id"), {
             headers : { 
             'Content-Type': 'application/json',
             'Accept': 'application/json'
@@ -42,7 +42,7 @@ export default class UpdateProduct extends Component{
         const query = new URLSearchParams(this.props.location.search);
         const data={id:query.get("id"),name:this.state.name,price:this.state.price}
         
-        fetch('https://priyankaapp.azurewebsites.net/Product/Update',{
+        fetch('https://localhost:44301/Product/Update',{
             method:'POST',
             body:JSON.stringify(data),
             headers:{'Content-Type':'application/json'}

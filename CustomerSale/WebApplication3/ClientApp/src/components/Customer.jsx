@@ -127,7 +127,7 @@ export default class Customer extends Component{
             return;
         }
         else{
-            fetch('https://priyankaapp.azurewebsites.net/Customer/Delete/'+id,{
+            fetch('https://localhost:44301/Customer/Delete/'+id,{
                 method:'POST',
                 headers:{'Content-Type':'application/json'}
             })

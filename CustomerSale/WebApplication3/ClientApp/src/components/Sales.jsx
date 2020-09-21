@@ -16,7 +16,7 @@ export default class Sales extends Component{
     }
 
     populateSalesData(){
-        fetch('https://priyankaapp.azurewebsites.net/Sales/GetSales')
+        fetch('https://localhost:44301/Sales/GetSales')
             .then(res=>res.json())
             .catch(error=>console.error('Error:',error))
             .then(result=>{
@@ -110,7 +110,7 @@ export default class Sales extends Component{
             return;
         }
         else{
-            fetch('https://priyankaapp.azurewebsites.net/Sales/Delete/'+id,{
+            fetch('https://localhost:44301/Sales/Delete/'+id,{
                 method:'POST',
                 headers:{'Content-Type':'application/json'}
             })
