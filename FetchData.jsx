@@ -4,7 +4,7 @@ export class FetchData extends Component {
   static displayName = FetchData.name;
 
   constructor(props) {
-    super(props);
+    super();
     this.state = { forecasts: [], loading: true };
   }
 
@@ -19,7 +19,7 @@ export class FetchData extends Component {
           <tr>
             <th>Date</th>
             <th>Temp. (C)</th>
-            <th>Temp. (F)</th>
+            <th>Temper. (F)</th>
             <th>Summary</th>
           </tr>
         </thead>
