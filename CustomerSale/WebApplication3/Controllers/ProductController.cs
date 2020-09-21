@@ -17,7 +17,6 @@ namespace CustomerSaleReact.Controllers
             _OnBoardingDbUnitOfWork = OnBoardingDbUnitOfWork;
         }
 
-        // POST api/<controller>  
         [HttpPost]
         public IActionResult Create(Product product)
         {
@@ -50,7 +49,6 @@ namespace CustomerSaleReact.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpGet]
         public IActionResult GetById(int Id)
         {
@@ -69,7 +67,6 @@ namespace CustomerSaleReact.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpPost("{Id}")]
         public IActionResult Delete(int Id)
         {

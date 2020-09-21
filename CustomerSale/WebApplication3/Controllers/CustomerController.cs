@@ -16,7 +16,7 @@ namespace CustomerSaleReact.Controllers
         {
             _OnBoardingDbUnitOfWork = OnBoardingDbUnitOfWork;
         }
-        // POST api/<controller>  
+        
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
@@ -35,12 +35,6 @@ namespace CustomerSaleReact.Controllers
             }
         }
 
-        //[HttpGet]
-        //public async Task<ActionResult<IEnumerable<Customer>>> GetCustomer()
-        //{
-        //    return await _context.Customer.ToListAsync();
-        //}
-
         [HttpGet]
         public IActionResult GetCustomer()
         {
@@ -55,7 +49,6 @@ namespace CustomerSaleReact.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpGet]
         public IActionResult GetById(int Id)
         {
@@ -74,7 +67,6 @@ namespace CustomerSaleReact.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpPost("{Id}")]
         public IActionResult Delete(int Id)
         {
