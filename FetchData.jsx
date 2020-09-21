@@ -7,7 +7,11 @@ export class FetchData extends Component {
     super();
       this.state = { forecasts: [], loading: true };
       //Sanosh first commit
-  }
+    }
+
+    firstFeature() {
+        //first feature
+    }
 
   componentDidMount() {
     this.populateWeatherData();
