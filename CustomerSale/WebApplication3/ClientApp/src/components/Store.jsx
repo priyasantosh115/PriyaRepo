@@ -106,7 +106,7 @@ export default class Store extends Component{
             return;
         }
         else{
-            fetch('https://localhost:44301/Store/Delete/'+id,{
+            fetch('https://priyankaapp.azurewebsites.net/Store/Delete/'+id,{
                 method:'POST',
                 headers:{'Content-Type':'application/json'}
             })

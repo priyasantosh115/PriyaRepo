@@ -20,7 +20,7 @@ handleSave(event){
 
     const data={name:this.state.name,address:this.state.address}
     
-    fetch('https://localhost:44301/Store/Create',{
+    fetch('https://priyankaapp.azurewebsites.net/Store/Create',{
         method:'POST',
         body:JSON.stringify(data),
         headers:{'Content-Type':'application/json'}

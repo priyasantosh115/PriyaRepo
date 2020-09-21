@@ -106,7 +106,7 @@ export default class Product extends Component{
             return;
         }
         else{
-            fetch('https://localhost:44301/Product/Delete/'+id,{
+            fetch('https://priyankaapp.azurewebsites.net/Product/Delete/'+id,{
                 method:'POST',
                 headers:{'Content-Type':'application/json'}
             })

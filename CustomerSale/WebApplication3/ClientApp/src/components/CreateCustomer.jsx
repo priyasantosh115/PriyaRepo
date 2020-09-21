@@ -20,7 +20,7 @@ export default class CreateCustomer extends Component{
 
         const data={name:this.state.name,address:this.state.address}
         
-        fetch('https://localhost:44301/Customer/Create',{
+        fetch('https://priyankaapp.azurewebsites.net/Customer/Create',{
             method:'POST',
             body:JSON.stringify(data),
             headers:{'Content-Type':'application/json'}

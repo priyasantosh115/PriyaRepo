@@ -1,0 +1,8 @@
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Release\netcoreapp3.0\CustomerSale.Services.deps.json
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Release\netcoreapp3.0\CustomerSale.Services.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Release\netcoreapp3.0\CustomerSale.Services.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Release\netcoreapp3.0\CustomerSale.Services.csprojAssemblyReference.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Release\netcoreapp3.0\CustomerSale.Services.AssemblyInfoInputs.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Release\netcoreapp3.0\CustomerSale.Services.AssemblyInfo.cs
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Release\netcoreapp3.0\CustomerSale.Services.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Release\netcoreapp3.0\CustomerSale.Services.pdb

@@ -24,7 +24,7 @@ export default class CreateSales extends Component{
     }
 
     populateSalesData(){
-        fetch('https://localhost:44301/Sales/GetSales')
+        fetch('https://priyankaapp.azurewebsites.net/Sales/GetSales')
             .then(res=>res.json())
             .catch(error=>console.error('Error:',error))
             .then(result=>{
@@ -58,7 +58,7 @@ export default class CreateSales extends Component{
         event.preventDefault();
         const data={solddate:this.state.solddate,customerID:this.state.customerID,productId:this.state.productId,storeId:this.state.storeId};
         
-        fetch('https://localhost:44301/Sales/Create',{
+        fetch('https://priyankaapp.azurewebsites.net/Sales/Create',{
             method:'POST',
             body:JSON.stringify(data),
             headers:{'Content-Type':'application/json'}
