@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
@@ -15,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerSale.Services", "CustomerSale.Services\CustomerSale.Services.csproj", "{198EB539-4CE0-4937-8474-C4882783E076}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerSaleReact", "WebApplication3\CustomerSaleReact.csproj", "{705EBB26-EBFC-4C9F-887C-A5C24EAB2CFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerSale", "CustomerSale\CustomerSale.csproj", "{705EBB26-EBFC-4C9F-887C-A5C24EAB2CFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

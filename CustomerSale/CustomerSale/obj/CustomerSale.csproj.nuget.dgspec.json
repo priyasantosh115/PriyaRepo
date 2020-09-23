@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale\\CustomerSale.csproj": {}
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale\\CustomerSale.csproj": {}
   },
   "projects": {
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
         "projectName": "CustomerSale.DomainModel",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
         "projectName": "CustomerSale.Repositories",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,11 +79,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj"
               },
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
         "projectName": "CustomerSale.Services",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,6 +183,10 @@
               "target": "Package",
               "version": "[3.1.8, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
             "Scrutor": {
               "target": "Package",
               "version": "[3.2.2, )"
@@ -207,14 +211,14 @@
         }
       }
     },
-    "D:\\PriyankaRepository\\CustomerSale\\CustomerSale\\CustomerSale.csproj": {
+    "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale\\CustomerSale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale\\CustomerSale.csproj",
+        "projectUniqueName": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale\\CustomerSale.csproj",
         "projectName": "CustomerSale",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale\\CustomerSale.csproj",
+        "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale\\CustomerSale.csproj",
         "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale\\obj\\",
+        "outputPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -230,111 +234,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.DomainModel\\CustomerSale.DomainModel.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj"
               },
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj"
-              },
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
-              },
-              "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\CustomerSaleReact.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\CustomerSaleReact.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.0": {
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Abstractions": {
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
-            "Microsoft.Extensions.Logging.Debug": {
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.4, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\CustomerSaleReact.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\CustomerSaleReact.csproj",
-        "projectName": "CustomerSaleReact",
-        "projectPath": "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\CustomerSaleReact.csproj",
-        "packagesPath": "C:\\Users\\choug\\.nuget\\packages\\",
-        "outputPath": "D:\\PriyankaRepository\\CustomerSale\\WebApplication3\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\choug\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.0": {
-            "projectReferences": {
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Repositories\\CustomerSale.Repositories.csproj"
-              },
-              "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
-                "projectPath": "D:\\PriyankaRepository\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
+              "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj": {
+                "projectPath": "D:\\PriyankaRepository\\PriyaRepo\\CustomerSale\\CustomerSale.Services\\CustomerSale.Services.csproj"
               }
             }
           }
@@ -353,6 +257,20 @@
               "version": "[3.0.0, )"
             },
             "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
             }

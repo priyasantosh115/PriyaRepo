@@ -11,3 +11,16 @@ C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSa
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.csproj.CopyComplete
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.dll
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.deps.json
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Repositories.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Services.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\bin\Debug\netcoreapp3.0\CustomerSale.Services.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.csprojAssemblyReference.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.AssemblyInfoInputs.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.AssemblyInfo.cs
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.csproj.CopyComplete
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Repositories\obj\Debug\netcoreapp3.0\CustomerSale.Repositories.pdb

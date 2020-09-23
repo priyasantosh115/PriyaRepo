@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace CustomerSale.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]/[action]")]
     [ApiController]
     public class CustomerController : ControllerBase
     {
@@ -16,7 +16,7 @@ namespace CustomerSale.Controllers
         {
             _OnBoardingDbUnitOfWork = OnBoardingDbUnitOfWork;
         }
-        // POST api/<controller>  
+        
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
@@ -36,7 +36,7 @@ namespace CustomerSale.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetCustomer()
         {
             try
             {
@@ -49,8 +49,7 @@ namespace CustomerSale.Controllers
             }
         }
 
-        // GET api/<controller>/5 
-        [HttpGet("{Id}")]
+        [HttpGet]
         public IActionResult GetById(int Id)
         {
             try
@@ -68,7 +67,6 @@ namespace CustomerSale.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpPost("{Id}")]
         public IActionResult Delete(int Id)
         {
@@ -87,7 +85,7 @@ namespace CustomerSale.Controllers
             }
         }
 
-        [HttpPost("{Id}")]
+        [HttpPost]
         public IActionResult Update(Customer customerChanges)
         {
             try

@@ -6,3 +6,11 @@ C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSa
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.AssemblyInfo.cs
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.dll
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.deps.json
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\bin\Debug\netcoreapp3.0\CustomerSale.Services.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.csprojAssemblyReference.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.AssemblyInfoInputs.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.AssemblyInfo.cs
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.Services\obj\Debug\netcoreapp3.0\CustomerSale.Services.pdb

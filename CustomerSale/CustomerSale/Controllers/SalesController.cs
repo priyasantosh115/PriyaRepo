@@ -1,12 +1,12 @@
 ﻿using CustomerSale.DomainModel;
 using CustomerSale.Repositories.Common.UnitOfWork;
+using CustomerSale.Model;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
 
 namespace CustomerSale.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]/[action]")]
     [ApiController]
     public class SalesController : ControllerBase
     {
@@ -17,7 +17,6 @@ namespace CustomerSale.Controllers
             _OnBoardingDbUnitOfWork = OnBoardingDbUnitOfWork;
         }
 
-        // POST api/<controller>  
         [HttpPost]
         public IActionResult Create(Sales sales)
         {
@@ -37,12 +36,17 @@ namespace CustomerSale.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetSales()
         {
             try
             {
-                IEnumerable<Sales> sales = _OnBoardingDbUnitOfWork.GetSalesRepository().GetAll();
-                return Ok(sales);
+                SalesResponse salesResponse = new SalesResponse();
+                salesResponse.Sales = _OnBoardingDbUnitOfWork.GetSalesRepository().GetAll();
+                salesResponse.Customers = _OnBoardingDbUnitOfWork.GetCustomerRepository().GetAll();
+                salesResponse.Stores = _OnBoardingDbUnitOfWork.GetStoreRepository().GetAll();
+                salesResponse.Products = _OnBoardingDbUnitOfWork.GetProductRepository().GetAll();
+
+                return Ok(salesResponse);
             }
             catch (Exception ex)
             {
@@ -50,18 +54,23 @@ namespace CustomerSale.Controllers
             }
         }
 
-        // GET api/<controller>/5 
-        [HttpGet("{Id}")]
+        [HttpGet]
         public IActionResult GetById(int Id)
         {
             try
             {
-                Sales sales = _OnBoardingDbUnitOfWork.GetSalesRepository().GetById(Id);
-                if (sales == null)
+                SalesResponse salesResponse = new SalesResponse();
+                salesResponse.Sales = _OnBoardingDbUnitOfWork.GetSalesRepository().GetAll();
+                salesResponse.Customers = _OnBoardingDbUnitOfWork.GetCustomerRepository().GetAll();
+                salesResponse.Stores = _OnBoardingDbUnitOfWork.GetStoreRepository().GetAll();
+                salesResponse.Products = _OnBoardingDbUnitOfWork.GetProductRepository().GetAll();
+                salesResponse.Sale = _OnBoardingDbUnitOfWork.GetSalesRepository().GetById(Id);
+
+                if (salesResponse == null)
                 {
-                    return NotFound("The Employee record couldn't be found.");
+                    return NotFound("The Sales record couldn't be found.");
                 }
-                return Ok(sales);
+                return Ok(salesResponse);
             }
             catch (Exception ex)
             {
@@ -69,7 +78,6 @@ namespace CustomerSale.Controllers
             }
         }
 
-        // GET api/<controller>/5 
         [HttpPost("{Id}")]
         public IActionResult Delete(int Id)
         {
@@ -88,7 +96,7 @@ namespace CustomerSale.Controllers
             }
         }
 
-        [HttpPost("{Id}")]
+        [HttpPost]
         public IActionResult Update(Sales salesChanges)
         {
             try

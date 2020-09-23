@@ -6,3 +6,11 @@ C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSa
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
 C:\Users\choug\Desktop\Internship\Onboarding Task\Visual\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.csprojAssemblyReference.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.deps.json
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\bin\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.csprojAssemblyReference.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.AssemblyInfoInputs.cache
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.AssemblyInfo.cs
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.dll
+D:\PriyankaRepository\PriyaRepo\CustomerSale\CustomerSale.DomainModel\obj\Debug\netcoreapp3.0\CustomerSale.DomainModel.pdb
